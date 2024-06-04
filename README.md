@@ -45,7 +45,7 @@ The data that you request (conversion from dollar to pound) will be updated on t
           print(line, end='')
       # Open the file in write mode, which will clear its contents
       with open('expenses.txt', 'w') as file:
-          pass  # The 'pass' statement is a no-op, used here because we don't need to write anything
+          pass
 
 
 
